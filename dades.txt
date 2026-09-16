@@ -1,0 +1,3 @@
+Línea 1: Hola mundo
+Línea 2: Aprendiendo Java
+Línea 3: Ficheros de texto
