@@ -1,2 +1,2 @@
-# repositoriochemi
-El precio de las compresas debería bajar
+# ActividadExplorador
+Esta tarea es la tarea del explorador 
